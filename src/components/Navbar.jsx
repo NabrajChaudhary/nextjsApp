@@ -33,44 +33,44 @@ const Navbar = () => {
                 <div className="w-full  flex justify-center lg:flex lg:items-center lg:w-auto">
                     <div className=" text-sm flex justify-center">
                         <a
-                            href="#responsive-header"
-                            className="block mt-4 lg:inline-block lg:mt-0 text-lg text-gray-500 hover:text-black mr-4"
+                            href="#"
+                            className="block mt-4 lg:inline-block lg:mt-0 text-lg text-gray-500 hover:text-black mr-4 "
                         >
                             Blog
                         </a>
                         <a
-                            href="#responsive-header"
+                            href="#"
                             className="block mt-4 lg:inline-block lg:mt-0 text-lg text-gray-500 hover:text-black mr-4"
                         >
                             Courses
                         </a>
                         <a
-                            href="#responsive-header"
+                            href="#"
                             className="block mt-4 lg:inline-block lg:mt-0 text-lg text-gray-500 hover:text-black mr-4"
                         >
                             Discord
                         </a>
 
                         <a
-                            href="#responsive-header"
+                            href="#"
                             className="block mt-4 lg:inline-block lg:mt-0 text-lg text-gray-500 hover:text-black mr-4"
                         >
                             Chats
                         </a>
                         <a
-                            href="#responsive-header"
+                            href="#"
                             className="block mt-4 lg:inline-block lg:mt-0 text-lg text-gray-500 hover:text-black mr-4"
                         >
                             Calls
                         </a>
                         <a
-                            href="#responsive-header"
+                            href="#"
                             className="block mt-4 lg:inline-block lg:mt-0 text-lg text-gray-500 hover:text-black mr-4"
                         >
                             Workshops
                         </a>
                         <a
-                            href="#responsive-header"
+                            href="#"
                             className="block mt-4 lg:inline-block lg:mt-0 text-lg text-gray-500 hover:text-black mr-4"
                         >
                             About
